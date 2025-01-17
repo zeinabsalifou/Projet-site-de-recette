@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "aplication de recettes culinaires",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "zeinab",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "fracty": "^1.0.12",
+    "img": "^3.0.3",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.13.3",
+    "parcel": "^2.13.3",
+    "svgo": "^3.3.2"
+  }
+}
