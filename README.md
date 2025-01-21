@@ -1,6 +1,7 @@
 # Projet-site-de-recettes
 Ce dépôt contient le code source d'un site de recettes de cuisine, permettant aux utilisateurs de consulter, partager et sauvegarder diverses recettes.
 Le site utilise une API de recettes pour récupérer les données des recettes.
+### Lien du site:  https://sitederecettes.netlify.app/
 
 # Fonctionnalités
 ### Affichage des recettes : 
